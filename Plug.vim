@@ -281,7 +281,8 @@ Plug 'othree/html5.vim'
 Plug 'mattn/emmet-vim'
 Plug 'cakebaker/scss-syntax.vim'
 Plug 'hail2u/vim-css3-syntax'
-Plug 'gregsexton/MatchTag'
+" Plug 'gregsexton/MatchTag'
+" This one breaks when editing Node files with {% if %} {% else %} blocks
 " }}}
 
 " VimL {{{

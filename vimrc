@@ -50,6 +50,7 @@ runtime! config/lang/elm.vim
 runtime! config/lang/golang.vim
 runtime! config/lang/javascript.vim
 runtime! config/lang/markdown.vim
+runtime! config/lang/python.vim
 runtime! config/lang/ruby.vim
 runtime! config/lang/rust.vim
 runtime! config/lang/vue.vim
